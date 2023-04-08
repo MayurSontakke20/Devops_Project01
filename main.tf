@@ -67,7 +67,7 @@ resource "aws_security_group" "three" {
 }
 
 resource "aws_s3_bucket" "four" {
-  bucket = "Mayurs@960"
+  bucket = "mayurss960"
 }
 
 resource "aws_iam_user" "five" {
